@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+streamlit
+streamlit-option-menu
+
+# Download the Program Requirements File by
+# Copy and Paste the Text Below to your Environment Terminal
+# Remove the "#"
+# pip install -r requirements.txt
+
+# Run the program by Typing the Below Text
+# streamlit run main.py
+# Remove the "#"
