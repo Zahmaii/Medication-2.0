@@ -3,6 +3,7 @@ pandas
 matplotlib
 streamlit
 streamlit-option-menu
+vercel
 
 # Download the Program Requirements File by
 # Copy and Paste the Text Below to your Environment Terminal
