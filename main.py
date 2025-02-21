@@ -5,6 +5,7 @@ import datetime
 import tempfile
 import time
 import random
+import vercel
 from fpdf import FPDF
 from streamlit_option_menu import option_menu
 from streamlit_webrtc import webrtc_streamer  # Ensure this is imported for webcam streaming
